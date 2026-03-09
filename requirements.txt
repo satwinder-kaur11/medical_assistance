@@ -1,6 +1,8 @@
 langchain
+streamlit
+google-generativeai
 langchain-community 
-langchain-openai
+langchain-google-genai
 langchain-experimental
 python-dotenv
 langchain_ollama
